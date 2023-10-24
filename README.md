@@ -1,2 +1,2 @@
 # Online-LearningWebsite
-Developed the sample We page for online learning
+Developed the sample Web page for online learning
